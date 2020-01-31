@@ -1,0 +1,18 @@
+a{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 15px;
+	
+}
+
+h1{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+.home-nav {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	text-transform: uppercase;
+	
+}
